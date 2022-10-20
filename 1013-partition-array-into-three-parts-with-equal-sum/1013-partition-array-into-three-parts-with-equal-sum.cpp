@@ -16,7 +16,7 @@ public:
                 part++;
             }
         }
-        if(part==3) return true;
-        return false;
+        return part==3;
+       
     }
 };
