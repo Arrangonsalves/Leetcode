@@ -1,7 +1,30 @@
 class Solution {
 public:
-    vector<int> addToArrayForm(vector<int>& num, int k) {
-       int n=num.size()-1;
+    vector<int> addToArrayForm(vector<int>& A, int K) 
+    {
+         for(int i=A.size()-1;i>=0&&K>0;i--)
+        {
+            A[i]+=K;
+            K=A[i]/10;
+            A[i]%=10;
+        }
+        while(K>0)
+        {
+             A.insert(A.begin(),K%10);
+             K/=10;
+        }
+        return A;
+   
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      /* int n=num.size()-1;
        vector<int> v;
        int c=0,i,sum=0;
        for(i=n;i>=0 && k>0;i--)
@@ -28,6 +51,6 @@ public:
        }
        if(c!=0)
            v.insert(v.begin(),c);
-       return v;
+       return v;*/
     }
 };
