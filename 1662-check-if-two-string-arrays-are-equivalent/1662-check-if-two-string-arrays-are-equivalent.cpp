@@ -6,8 +6,6 @@ public:
             s1=s1+i;
         for(auto i:word2)
             s2=s2+i;
-        if(s1==s2)
-            return true;
-        return false;
+        return s1==s2;
     }
 };
