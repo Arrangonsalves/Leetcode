@@ -6,20 +6,21 @@ using namespace std;
 // } Driver Code Ends
 class Solution{
 public:
-    int *findTwoElement(int *arr, int n) {
+    vector<int> findTwoElement(vector<int> arr, int n) {
         // code here
-        int ans[2];
-        vector<int> v(n+1);
-        for(int i=0;i<n;i++)
-            v[arr[i]]++;
+        int mn,rp;
+        unordered_map<int,int> m;
+        for(auto i:arr)
+            m[i]++;
         for(int i=1;i<=n;i++)
         {
-            if(v[i]==2)
-                arr[0]=i;
-            if(v[i]==0)
-                arr[1]=i;
+            
+            if(m.find(i)==m.end())
+                mn=i;
+            if(m[i]==2)
+                rp=i;
         }
-        return arr;
+        return {rp,mn};
     }
 };
 
@@ -31,7 +32,7 @@ int main() {
     while (t--) {
         int n;
         cin >> n;
-        int a[n];
+        vector<int> a(n);
         for (int i = 0; i < n; i++) {
             cin >> a[i];
         }
