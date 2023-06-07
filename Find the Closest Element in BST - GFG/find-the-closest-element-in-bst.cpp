@@ -45,16 +45,11 @@ class Solution
         Node *curr=root;
         while(curr)
         {
+            ans=min(ans,abs(curr->data-K));
             if(curr->data<K)
-            {
-                ans=min(ans,abs(curr->data-K));
                 curr=curr->right;
-            }
             else if(curr->data>K)
-            {
-                ans=min(ans,abs(curr->data-K));
                 curr=curr->left;
-            }
             else
                 return 0;
         }
