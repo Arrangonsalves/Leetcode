@@ -11,6 +11,20 @@ public:
 	vector<int> kLargest(int arr[], int n, int k) {
 	    // code here
 	    vector<int> ans;
+	    priority_queue<int> pq;
+	    for(int i=0;i<n;i++)
+	        pq.push(arr[i]);
+	    while(k>0)
+	    {
+	        ans.push_back(pq.top());
+	        pq.pop();
+	        k--;
+	    }
+	    return ans;
+	    
+	    
+	    
+	   /* vector<int> ans;
 	    sort(arr,arr+n);
 	    int i=n-1;  
 	    while(k>0)
@@ -18,7 +32,7 @@ public:
 	        ans.push_back(arr[i--]);
 	        k--;
 	    }
-	    return ans;
+	    return ans;*/
 	}
 
 };
