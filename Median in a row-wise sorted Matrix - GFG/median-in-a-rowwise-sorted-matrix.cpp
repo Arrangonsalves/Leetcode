@@ -12,11 +12,11 @@ class Solution{
 public:
      int median(vector<vector<int>> &matrix, int r, int c){
       
-      int start_val = 0,end_val = 2000;
+      int low = 0,high = 2000;
       int n = r*c;
-      while(start_val <= end_val)
+      while(low <= high)
       {
-         int mid_val = (start_val + end_val)/2;
+         int mid_val = (low + high)/2;
          int count=0;
          for(int i=0;i<r;i++)
          {
@@ -26,22 +26,21 @@ public:
                    int mid = l + (h-l)/2;
                    
                    if(matrix[i][mid] <= mid_val)
-                   l = mid+1;
+                        l = mid+1;
                    
                    else
-                   h = mid-1;
+                        h = mid-1;
              }
              count = count + l;
          }
-         
          if( count<=n/2 )
-            start_val = mid_val+1;
+            low = mid_val+1;
          else
-             end_val = mid_val-1;
+            high = mid_val-1;
            
       }
       
-      return start_val;
+      return low;
     }
 };
 
