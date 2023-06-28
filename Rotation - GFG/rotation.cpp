@@ -10,14 +10,44 @@ class Solution{
 public:	
 	int findKRotation(int arr[], int n) {
 	    // code here
-	    for(int i=0;i<n;i++)
+	    int low=0,high=n-1,mini=INT_MAX,ans=0;
+	    while(low<=high)
+	    {
+	        int mid=(low+high)/2;
+	        if(arr[low]<=arr[mid])
+	        {
+	           if(arr[low]<mini)
+	           {
+	                mini=arr[low];
+	                ans=low;
+	           }
+	            low=mid+1;
+	        }
+	        else
+	        {
+	           if(arr[mid]<mini)
+	           {
+	                mini=arr[mid];
+	                ans=mid;
+	           }
+	            high=mid-1;
+	        }
+	    }
+	    return ans;
+	    
+	    
+	    
+	    
+	    //TC: O(N)
+	    //SC: O(1)
+	    /*for(int i=0;i<n;i++)
 	    {
 	        if(i!=0 && arr[i]<arr[i-1] && arr[i]<arr[i+1])
 	            return i;
 	    }
 	    if(arr[n-1]<arr[n-2] && arr[n-1]<arr[0])
 	        return n-1;
-	    return 0;
+	    return 0;*/
 	}
 	
 
