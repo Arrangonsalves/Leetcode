@@ -10,7 +10,7 @@ class Solution{
     {
         
         //TC:O(M+N)
-        int i=0,j=0;
+        int i=0,j=0,k1=k;
         vector<int> v;
         while(i<n && j<m)
         {
@@ -18,13 +18,21 @@ class Solution{
                 v.push_back(arr1[i++]);
             else
                 v.push_back(arr2[j++]);
+            k--;
+            if(k==0) break;
         }
-        while(i<n)
+        while(i<n){
             v.push_back(arr1[i++]);
-        while(j<m)
+            k--;
+            if(k==0) break;
+        }
+        while(j<m){
             v.push_back(arr2[j++]);
+            k--;
+            if(k==0) break;
+        }
        
-        return v[k-1];
+        return v[k1-1];
     }
 };
 
