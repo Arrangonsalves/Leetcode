@@ -105,15 +105,14 @@ class Solution {
         q.push({root,0});
         while(!q.empty())
         {
-            auto it=q.front();
+            Node* curr=q.front().first;
+            int x=q.front().second;
             q.pop();
-            Node* node=it.first;
-            int line =it.second;
-            m[line]=node->data;
-            if(node->left!=NULL)
-                q.push({node->left,line-1});
-            if(node->right!=NULL)
-                q.push({node->right,line+1});
+            m[x]=curr->data;
+            if(curr->left)
+                q.push({curr->left,x-1});
+            if(curr->right)
+                q.push({curr->right,x+1});
         }
         for(auto i:m)
             ans.push_back(i.second);
