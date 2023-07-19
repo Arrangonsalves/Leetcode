@@ -125,8 +125,8 @@ void preorder(Node* root,long long &sum,long long num)
 long long treePathsSum(Node *root)
 {
     //Your code here
-    long long sum=0,num=0;
-    preorder(root,sum,num);
+    long long sum=0;
+    preorder(root,sum,0);
     return sum;
     
     
