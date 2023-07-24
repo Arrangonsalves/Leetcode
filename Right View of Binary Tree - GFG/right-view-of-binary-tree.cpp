@@ -41,20 +41,27 @@ class Solution
 {
     public:
     //Function to return list containing elements of right view of binary tree.
-    void RevPreOrder(Node *root,int level,vector<int> &ans)
-    {
-        if(root==NULL)
-            return;
-        if(ans.size()==level)
-            ans.push_back(root->data);
-        RevPreOrder(root->right,level+1,ans);
-        RevPreOrder(root->left,level+1,ans);
-    }
     vector<int> rightView(Node *root)
     {
        // Your Code here
        vector<int> ans;
-       RevPreOrder(root,0,ans);
+       queue<Node*> q;
+       q.push(root);
+       while(!q.empty())
+       {
+           int s=q.size();
+           for(int i=0;i<s;i++)
+           {
+                Node* curr=q.front();
+                q.pop();
+                if(i==s-1)
+                    ans.push_back(curr->data);
+                if(curr->left)
+                    q.push(curr->left);
+                if(curr->right)
+                    q.push(curr->right);
+           }
+       }
        return ans;
     }
 };
