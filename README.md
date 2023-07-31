@@ -1,1 +1,1 @@
-# Problem Solving # Leetcode
+# Leetcode
