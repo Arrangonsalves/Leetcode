@@ -16,7 +16,7 @@ public:
                 else
                     low=mid+1;
             }
-            else
+            else  //right side is sorted
             {
                 if(target>=nums[mid] && target<=nums[high])
                     low=mid+1;
