@@ -19,4 +19,12 @@
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/Arrangonsalves/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Arrangonsalves/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+## String
+|  |
+| ------- |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Arrangonsalves/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 <!---LeetCode Topics End-->
