@@ -16,6 +16,7 @@
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/Arrangonsalves/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Arrangonsalves/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3651-transformed-array](https://github.com/Arrangonsalves/Leetcode/tree/master/3651-transformed-array) |
 ## Greedy
 |  |
 | ------- |
@@ -44,4 +45,5 @@
 |  |
 | ------- |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Arrangonsalves/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3651-transformed-array](https://github.com/Arrangonsalves/Leetcode/tree/master/3651-transformed-array) |
 <!---LeetCode Topics End-->
