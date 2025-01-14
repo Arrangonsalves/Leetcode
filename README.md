@@ -16,6 +16,7 @@
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/Arrangonsalves/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Arrangonsalves/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Arrangonsalves/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3651-transformed-array](https://github.com/Arrangonsalves/Leetcode/tree/master/3651-transformed-array) |
 ## Greedy
 |  |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Arrangonsalves/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Arrangonsalves/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -46,4 +48,8 @@
 | ------- |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Arrangonsalves/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3651-transformed-array](https://github.com/Arrangonsalves/Leetcode/tree/master/3651-transformed-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Arrangonsalves/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
