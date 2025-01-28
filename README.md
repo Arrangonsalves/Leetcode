@@ -16,6 +16,7 @@
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/Arrangonsalves/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Arrangonsalves/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Arrangonsalves/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Arrangonsalves/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3651-transformed-array](https://github.com/Arrangonsalves/Leetcode/tree/master/3651-transformed-array) |
 ## Greedy
@@ -52,4 +53,20 @@
 |  |
 | ------- |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Arrangonsalves/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+## Depth-First Search
+|  |
+| ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Arrangonsalves/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Arrangonsalves/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Union Find
+|  |
+| ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Arrangonsalves/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Arrangonsalves/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
