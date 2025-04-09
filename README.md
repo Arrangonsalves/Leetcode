@@ -18,6 +18,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Arrangonsalves/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Arrangonsalves/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Arrangonsalves/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Arrangonsalves/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3651-transformed-array](https://github.com/Arrangonsalves/Leetcode/tree/master/3651-transformed-array) |
 ## Greedy
 |  |
@@ -36,6 +37,7 @@
 | ------- |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Arrangonsalves/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Arrangonsalves/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Arrangonsalves/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Sorting
 |  |
 | ------- |
