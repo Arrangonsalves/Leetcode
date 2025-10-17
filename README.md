@@ -12,6 +12,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/Arrangonsalves/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Arrangonsalves/Leetcode/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/Arrangonsalves/Leetcode/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/Arrangonsalves/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [1338-queries-quality-and-percentage](https://github.com/Arrangonsalves/Leetcode/tree/master/1338-queries-quality-and-percentage) |
 ## Array
 |  |
