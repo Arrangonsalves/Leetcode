@@ -16,6 +16,7 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Arrangonsalves/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/Arrangonsalves/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0601-human-traffic-of-stadium](https://github.com/Arrangonsalves/Leetcode/tree/master/0601-human-traffic-of-stadium) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Arrangonsalves/Leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1338-queries-quality-and-percentage](https://github.com/Arrangonsalves/Leetcode/tree/master/1338-queries-quality-and-percentage) |
 ## Array
 |  |
