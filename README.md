@@ -23,6 +23,7 @@
 | [0619-biggest-single-number](https://github.com/Arrangonsalves/Leetcode/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/Arrangonsalves/Leetcode/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/Arrangonsalves/Leetcode/tree/master/1135-customers-who-bought-all-products) |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Arrangonsalves/Leetcode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1338-queries-quality-and-percentage](https://github.com/Arrangonsalves/Leetcode/tree/master/1338-queries-quality-and-percentage) |
 ## Array
 |  |
