@@ -21,6 +21,7 @@
 | [0608-tree-node](https://github.com/Arrangonsalves/Leetcode/tree/master/0608-tree-node) |
 | [0610-triangle-judgement](https://github.com/Arrangonsalves/Leetcode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Arrangonsalves/Leetcode/tree/master/0619-biggest-single-number) |
+| [0626-exchange-seats](https://github.com/Arrangonsalves/Leetcode/tree/master/0626-exchange-seats) |
 | [1338-queries-quality-and-percentage](https://github.com/Arrangonsalves/Leetcode/tree/master/1338-queries-quality-and-percentage) |
 ## Array
 |  |
