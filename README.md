@@ -26,6 +26,7 @@
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Arrangonsalves/Leetcode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1155-product-sales-analysis-iii](https://github.com/Arrangonsalves/Leetcode/tree/master/1155-product-sales-analysis-iii) |
 | [1174-sales-analysis-iii](https://github.com/Arrangonsalves/Leetcode/tree/master/1174-sales-analysis-iii) |
+| [1268-market-analysis-i](https://github.com/Arrangonsalves/Leetcode/tree/master/1268-market-analysis-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Arrangonsalves/Leetcode/tree/master/1338-queries-quality-and-percentage) |
 ## Array
 |  |
