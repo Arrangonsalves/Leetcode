@@ -29,6 +29,7 @@
 | [1268-market-analysis-i](https://github.com/Arrangonsalves/Leetcode/tree/master/1268-market-analysis-i) |
 | [1301-reformat-department-table](https://github.com/Arrangonsalves/Leetcode/tree/master/1301-reformat-department-table) |
 | [1338-queries-quality-and-percentage](https://github.com/Arrangonsalves/Leetcode/tree/master/1338-queries-quality-and-percentage) |
+| [3421-find-students-who-improved](https://github.com/Arrangonsalves/Leetcode/tree/master/3421-find-students-who-improved) |
 ## Array
 |  |
 | ------- |
