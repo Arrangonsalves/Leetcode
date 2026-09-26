@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/Arrangonsalves/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [1929-concatenation-of-array](https://github.com/Arrangonsalves/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Arrangonsalves/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Arrangonsalves/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Arrangonsalves/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -69,6 +70,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/Arrangonsalves/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Arrangonsalves/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3651-transformed-array](https://github.com/Arrangonsalves/Leetcode/tree/master/3651-transformed-array) |
 ## Bit Manipulation
